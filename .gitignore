@@ -6,9 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# adding config_api.py
+config_api.py
+
+# adding API_practice
+API_practice.ipynb
+
 # Distribution / packaging
 .Python
-config_api.py
 build/
 develop-eggs/
 dist/
