@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #adding DS_Store
-DS_Store
+.DS_Store
 
 # adding config_api.py
 config_api.py
