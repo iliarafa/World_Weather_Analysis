@@ -1,3 +1,10 @@
+# Adding config.py file.
+config_api.py
+
+# Additional files
+API_practice.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,15 +12,6 @@ __pycache__/
 
 # C extensions
 *.so
-
-#adding DS_Store
-.DS_Store
-
-# adding config_api.py
-config_api.py
-
-# adding API_practice
-API_practice.ipynb
 
 # Distribution / packaging
 .Python
